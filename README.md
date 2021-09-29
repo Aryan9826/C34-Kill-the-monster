@@ -1,1 +1,3 @@
-# C34-Kill-the-monster
+
+## Use basic p5.play-boilerplate
+# By Arjun Desaraju
